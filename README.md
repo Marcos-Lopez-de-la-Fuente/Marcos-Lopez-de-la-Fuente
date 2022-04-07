@@ -10,5 +10,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-Lopez-de-la-Fuente&show_icons=true&locale=en&layout=compact" alt="Marcos-Lopez-de-la-Fuente" /></p>
 
+(https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=onedark)](https://github.com/ryo-ma/github-profile-chalk)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&show_icons=true&locale=en" alt="Marcos-Lopez-de-la-Fuente" /></p>
