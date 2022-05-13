@@ -1,5 +1,7 @@
 <h1 align="center">Marcos López de la Fuente</h1>
 
+Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exámenes.
+
 **mlopez@cifpfbmoll.eu**
 
 
