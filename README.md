@@ -14,9 +14,9 @@ Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exá
 
 </br>
 
-![Marcos-Lopez-de-la-Fuente github stats](https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&hide=["prs","issues"]&show_icons=true&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact&?theme=synthwave)
+![Marcos-Lopez-de-la-Fuente github stats](https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&hide=["prs","issues"]&show_icons=true&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact&theme=synthwave)
 
 </br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=synthwave)
+![trophy](https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=onedark)
 
