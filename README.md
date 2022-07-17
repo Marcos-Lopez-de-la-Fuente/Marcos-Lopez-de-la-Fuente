@@ -15,9 +15,9 @@ Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exá
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia"/>
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia"/>
-
+<center>
+    <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia"/>
+</center>
 
 <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia"/>
 
