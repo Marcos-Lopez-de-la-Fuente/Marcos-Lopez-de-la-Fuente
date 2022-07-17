@@ -1,12 +1,12 @@
 <h1 align="center">Marcos López de la Fuente</h1>
 
-Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exámenes.
+<img align="right" src="https://komarev.com/ghpvc/?username=Marcos-Lopez-de-la-Fuente"/>
 
 **mlopez@cifpfbmoll.eu**
 
-</br>
+Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exámenes.
 
-<img src="https://komarev.com/ghpvc/?username=Marcos-Lopez-de-la-Fuente"/>
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia">
 
