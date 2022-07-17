@@ -6,25 +6,12 @@ Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exá
 
 </br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Marcos-Lopez-de-la-Fuente"/></p>
+<img src="https://komarev.com/ghpvc/?username=Marcos-Lopez-de-la-Fuente"/>
 
-</br>
+<img src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Lopez-de-la-Fuente&theme=algolia&layout=compact&langs_count=100">
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcosLopez&theme=algolia&layout=compact">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia"/>
-
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia"/>
-
-
-
-![Marcos Lopez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Lopez-de-la-Fuente&theme=algolia&layout=compact&langs_count=100)
-
-</br>
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarcosLopez&theme=algolia&layout=compact)
-
-</br>
-
-![Trofeos](https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=algolia)
+<img src="https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=algolia">
