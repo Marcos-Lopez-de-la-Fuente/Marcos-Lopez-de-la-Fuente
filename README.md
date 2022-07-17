@@ -18,5 +18,5 @@ Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exá
 
 </br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=synthwave)
 
