@@ -4,7 +4,7 @@
 
 **mlopez@cifpfbmoll.eu**
 
-Todo el profile está en pruebas, me crearé uno correcto cuando acaben los exámenes.
+*Perfil en proceso...*
 
 </br>
 
