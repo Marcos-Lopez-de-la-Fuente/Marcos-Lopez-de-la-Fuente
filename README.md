@@ -12,9 +12,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Lopez-de-la-Fuente&theme=algolia&layout=compact&langs_count=100">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcosLopez&theme=algolia&layout=compact">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=algolia">
 
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarcosLopez&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)
