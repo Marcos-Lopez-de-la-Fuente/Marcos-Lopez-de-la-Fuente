@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Lopez-de-la-Fuente&count_private=true&show_icons=true&theme=algolia">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Lopez-de-la-Fuente&theme=algolia&layout=compact&langs_count=100">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Lopez-de-la-Fuente&theme=algolia&layout=compact&langs_count=8">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Marcos-Lopez-de-la-Fuente&theme=algolia">
 
