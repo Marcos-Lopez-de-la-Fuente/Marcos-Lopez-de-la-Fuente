@@ -1,4 +1,6 @@
-<h1 align="center">Marcos López de la Fuente</h1>
+<h1 align="center">Bienvenido a mi espacio de trabajo</h1>
+
+![Workspace](Workspace.jpg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Marcos-Lopez-de-la-Fuente"/>
 
