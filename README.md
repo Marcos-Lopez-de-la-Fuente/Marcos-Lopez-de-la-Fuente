@@ -2,6 +2,7 @@
 
 ![Workspace](Workspace.jpg)
 
+<a href="https://wakatime.com/@e781e6d0-783c-47d1-b7e0-f44b643238bc"><img align="right" src="https://wakatime.com/badge/user/e781e6d0-783c-47d1-b7e0-f44b643238bc.svg"/></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=Marcos-Lopez-de-la-Fuente"/>
 
 Estudiando actualmente en [**CIFP Francesc de Borja Moll**](https://github.com/cifpfbmoll).
